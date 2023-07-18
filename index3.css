@@ -309,9 +309,7 @@ form input, form textarea{
    .box{
       display:none;
    }
-.laptopview{
-     display: contents;
-}
+
 .mobileview{
    display: none;
 }
@@ -469,9 +467,7 @@ form input, form textarea{
      .laptopview{
            display:none;
      }
-     .mobileview{
-         display: contents;
-     }
+    
   }
  
 
