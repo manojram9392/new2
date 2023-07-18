@@ -312,7 +312,7 @@ form input, form textarea{
    
 
 
-@media (max-width:350px) {
+@media (max-width:400px) {
 
    .navbar{
       display: contents;
@@ -368,7 +368,7 @@ form input, form textarea{
     }
    }
    
-    @media (max-width:350px) {
+    @media (max-width:400px) {
       .services-list{
          grid-template-columns: repeat(1,1fr);
          padding-left: 60px;
@@ -397,7 +397,7 @@ form input, form textarea{
        }
       
      }  
-     @media (max-width:350px){
+     @media (max-width:400px){
       .row{
         flex-direction: column;
       }
@@ -423,7 +423,7 @@ form input, form textarea{
       font-size: xx-large;
    }
 }
-      @media (max-width:350px){
+      @media (max-width:400px){
          .sub-title3{
             padding-left: 160px;
          }
@@ -448,7 +448,7 @@ form input, form textarea{
          
       }
       }
-      @media (max-width:350px){
+      @media (max-width:400px){
          .form {
             grid-template-columns: repeat(1,1fr);  
             
