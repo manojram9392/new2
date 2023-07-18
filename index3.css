@@ -310,10 +310,10 @@ form input, form textarea{
       display:none;
    }
 .laptopview{
-     display:contents;
+     display: contents;
 }
 .mobileview{
-   display:none;
+   display: none;
 }
 
    
@@ -470,7 +470,7 @@ form input, form textarea{
            display:none;
      }
      .mobileview{
-         display:contents;
+         display: contents;
      }
   }
  
