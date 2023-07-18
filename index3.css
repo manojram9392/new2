@@ -309,9 +309,11 @@ form input, form textarea{
    .box{
       display:none;
    }
-
 .mobileview{
    display: none;
+}
+.laptop{
+   display: contents;
 }
 
    
@@ -458,17 +460,21 @@ form input, form textarea{
             grid-template-columns: repeat(1,1fr);  
             
          }
+         .laptopview{
+            display: none;
+         }
          
          .sub-title4{
             padding-left:70px;
          }
+         
       }
-  @media (max-width:400px){
-     .laptopview{
-           display:none;
-     }
-    
-  }
+      @media (max-width:400px){
+      
+         .mobileview{
+            display: contents;
+         }
+      }
  
 
 
